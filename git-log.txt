@@ -1,0 +1,22 @@
+johnr@DESKTOP-LMD1050 MINGW64 ~/OneDrive/Documents/Javaprog/Javaverktyg/Git-laboration (main)
+$ git log
+commit 937281d79951917ce1887b512968fc8d7503888d (HEAD -> main, origin/main, Branch)
+Author: john roth <john.roth_95@live.com>
+Date:   Tue Nov 3 14:01:38 2020 +0100
+
+    Adding log file to branch
+
+commit 7e676fd4d276f6134df00ca4c7ca9d9197f694b3
+Author: john roth <john.roth_95@live.com>
+Date:   Tue Nov 3 13:56:38 2020 +0100
+
+    Added ignore
+
+commit 989e8be99f6bcb0bc4b83b117663fb1dad98797d
+Author: john roth <john.roth_95@live.com>
+Date:   Tue Nov 3 13:49:05 2020 +0100
+
+    first commit
+
+johnr@DESKTOP-LMD1050 MINGW64 ~/OneDrive/Documents/Javaprog/Javaverktyg/Git-laboration (main)
+$
